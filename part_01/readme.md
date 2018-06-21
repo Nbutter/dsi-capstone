@@ -1,5 +1,10 @@
 # Part 1: Roundtable Lightning Talks
 
+## PRESENTATION
+
+[Presentation on three potential topics for this project, delivered in class at General Assembly](./capstone_Butterworth_part_01_Lightning_Talk.pdf) 
+
+
 ## Overview
 
 In this section, you will be presenting three potential topics to your coursemates (and fellow well-wishers!) You will be presenting your findings in the form of an informal [lightning talk](https://en.wikipedia.org/wiki/Lightning_talk). 
