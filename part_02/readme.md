@@ -1,5 +1,9 @@
 # Part 2: Problem Statement, EDA and Dataset
 
+## NOTEBOOK
+
+[Notebook with project update and preliminary EDA](./capstone_Butterworth_part 2.ipynb)
+
 ## Overview
 
 In this section you will update us on your project, including the project you have chosen, your problem statement, an extensive outline of EDA and modeling to date, the goal of your predictive model, and the data you will use to explore that model. 
