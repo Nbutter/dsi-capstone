@@ -1,5 +1,15 @@
 # Capstone Project
 
+
+## Part 1 - lightning talk
+[Lightning talk presentation with three capstone ideas](./part_01/capstone_Butterworth_part_01_Lightning_Talk.pdf)
+
+
+## Part 2 - notebook
+[Notebook with description of project selection and preliminary EDA](./part_02/capstone_Butterworth_part 2.ipynb)
+
+****
+
 Your Capstone project is the culmination of your time at GA. You will be tasked with developing an interesting question, collecting the data required to model that data, developing the strongest model (or models) for prediction, and communicating those findings to other data scientists and non-technical individuals. This introductory document lays out the five consitutent portions of the project and their due dates.
 
 ## Your Deliverables
