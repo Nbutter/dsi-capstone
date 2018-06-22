@@ -2,7 +2,8 @@
 
 ## NOTEBOOK
 
-[Notebook with project update and preliminary EDA](./capstone_Butterworth_part 2.ipynb)
+[Notebook with project update and preliminary EDA](./Capstone_Butterworth_part 2_Summary_EDA)
+[Notebook with time series visualizations](./Time-Series-Visualizations.ipynb)
 
 ## Overview
 
