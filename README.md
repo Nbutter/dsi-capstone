@@ -6,8 +6,8 @@
 
 
 ## Part 2 - notebook
-[Notebook with description of project selection and preliminary EDA](./part_02/capstone_Butterworth_part 2.ipynb)
-
+[Notebook with description of project selection and preliminary EDA](./Capstone_Butterworth_part_02_Summary_EDA.ipynb)
+[Notebook with time series visualizations](./Time-Series-Visualizations.ipynb)
 ****
 
 Your Capstone project is the culmination of your time at GA. You will be tasked with developing an interesting question, collecting the data required to model that data, developing the strongest model (or models) for prediction, and communicating those findings to other data scientists and non-technical individuals. This introductory document lays out the five consitutent portions of the project and their due dates.
